@@ -37,7 +37,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={<i className={`${work.mainTech[0]==="Flutter"?'devicon-flutter-plain':'fab fa-angular'} experience-icon`} style={{display: 'block'}}></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
