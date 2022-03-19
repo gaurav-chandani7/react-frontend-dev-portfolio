@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Gaurav Chandani",
-      "titles": [ "Front-end Developer", "Product Engineer", "Mobile App Developer", "Machine Learning - Python"],
+      "titles": [ "Front-end Developer", "Product Engineer", "Mobile App Developer"],
       "social": [
         {
           "name": "github",
@@ -17,6 +17,16 @@
           "name": "instagram",
           "url": "https://www.instagram.com/gaurav_chandani",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "instagram",
+          "url": "mailto:imgauravchandani@gmail.com",
+          "class": "fa fa-envelope"
+        },
+        {
+          "name": "instagram",
+          "url": "tel:+919923815410",
+          "class": "fa fa-phone"
         }
       ],
       "image": "myProfile.jpg"
