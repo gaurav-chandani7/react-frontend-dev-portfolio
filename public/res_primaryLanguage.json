@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi There!👋 I'm Gaurav Chandani",
-      "description": "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with React / Nodejs / Flutter and some other cool libraries and frameworks. Currently I'm working as Product Engineer at Ecosystm.",
+      "description": "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with React / Nodejs / Flutter and some other cool libraries and frameworks.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -79,9 +79,25 @@
     ],
     "experience": [
       {
-        "company": "Ecosystm",
+        "company": "Freelance",
+        "title": "Full Stack - Mobile Heavy",
+        "years": "04.2023 - present",
+        "mainTech": [
+          "Flutter",
+          "GraphQL",
+          "MongoDB"
+        ],
+        "technologies": [
+          "GraphQL API",
+          "JavaScript",
+          "Dart",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Kampd",
         "title": "Product Engineer",
-        "years": "07.2021 - present",
+        "years": "07.2021 - 03.2023",
         "mainTech": [
           "Flutter",
           "React"

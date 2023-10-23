@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Gaurav Chandani",
-      "titles": [ "Front-end Developer", "Product Engineer", "Mobile App Developer"],
+      "titles": [ "Full Stack Developer", "Mobile App Developer", "Backend - GraphQL, MongoDB"],
       "social": [
         {
           "name": "github",
@@ -41,6 +41,16 @@
         {
           "name": "React",
           "class": "devicon-react-plain",
+          "level": "95"
+        },
+        {
+          "name": "GraphQL",
+          "class": "devicon-graphql-plain",
+          "level": "95"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
           "level": "95"
         },
         {
